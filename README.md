@@ -17,7 +17,7 @@ Library Management is a library management system that supports functions such a
 
 ### Prerequisites:
 
-- Node.js
+- Node.js v20.14.0
 
 - MySQL server has been set up
 
