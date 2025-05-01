@@ -41,11 +41,11 @@ npm start # Run the backend server
 
 
 ### 🎯 Main features
-- ✔️ CRUD books, users, categories and loan/return transactions.
+- CRUD books, users, categories and loan/return transactions.
 
-- ✔️ RESTful API to manipulate library data.
+- RESTful API to manipulate library data.
 
-- ✔️ Intuitive, easy-to-use user interface.
+- Intuitive, easy-to-use user interface.
 
-- ✔️ Flexible data query from MySQL.
-- ✔️ ApexCharts statistical charts help display library data visually.
+- Flexible data query from MySQL.
+- ApexCharts statistical charts help display library data visually.
