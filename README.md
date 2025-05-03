@@ -34,6 +34,7 @@ npm start # Start the website
 ### Backend installation:
 
 ```sh
+cd Backend
 npm install
 npm start # Run the backend server
 
